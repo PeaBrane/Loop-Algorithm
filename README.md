@@ -1,7 +1,8 @@
 # Loop-Algorithm
+
 This repository contains MATLAB scripts for generating and solving instances based on the random and structured loop algorithms described 
 in the following paper:
-link
+https://arxiv.org/abs/1905.05334
 
 main.m: This file is the main script that generates problem instances using both the random and structured loop algorithm, 
 solves the instances using simulated annealing (SA), and records the number of sweeps to solution.
