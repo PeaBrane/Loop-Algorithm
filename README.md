@@ -15,4 +15,4 @@ get_time_gibbs.m: Solves the problem instance using simulated annealing (SA), an
 
 convert_to_SAT.m: Convert the spin glass instance into a MAX-2-SAT problem.
 
-wcnf: This folder contains the source code for generating weighted MAX-2-SAT instances in the wcnf format directly.
+wcnf: This folder contains the source codes for generating weighted MAX-2-SAT instances in the wcnf format directly. The codes are designed to generate instances with a large number of literals, since only the non-zero elements of the weight matrix is stored for memory efficiency.
