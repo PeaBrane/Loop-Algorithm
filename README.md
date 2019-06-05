@@ -14,3 +14,5 @@ loop_struct.m: Generates an RBM instance using the structured loop algorithm.
 get_time_gibbs.m: Solves the problem instance using simulated annealing (SA), and records the total number of sweeps to solution.
 
 convert_to_SAT.m: Convert the spin glass instance into a MAX-2-SAT problem.
+
+wcnf: This folder contains the source code for generating weighted MAX-2-SAT instances in the wcnf format directly.
